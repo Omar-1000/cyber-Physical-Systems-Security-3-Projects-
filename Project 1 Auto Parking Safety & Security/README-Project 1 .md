@@ -47,7 +47,7 @@ The Auto Parking System is implemented as a closed-loop cyber-physical system co
 
 ## 🔄 CPS System Flow
 
-![CPS Flow Diagram](Data_Flow.png)
+![CPS Flow Diagram](Data_FLow.png)
 
 The system operates using a continuous cyber-physical feedback loop.  
 Sensors collect real-time environmental data which is processed by the ECU and decision engine.  
