@@ -81,7 +81,7 @@ The model represents real CPS interaction between cyber controller and physical 
 
 ## 📈 Performance Metrics Analysis
 
-![Performance Metrics](overshoot - settling Time - SSE.png)
+![Performance Metrics](overshoot_settlingTime_SSE.png)
 
 Performance evaluated using:
 
@@ -115,7 +115,7 @@ Results showed controller tuning directly impacts CPS stability and responsivene
 
 ### 🎯 Sensor Spoofing Attack
 
-![Spoofing Attack](Spoofing attack model.png)
+![Spoofing Attack](Spoofing_attack_model.png)
 
 Attack injects false speed measurement:
 - Controller reduces throttle incorrectly
@@ -126,7 +126,7 @@ Attack injects false speed measurement:
 
 ### ⏱ DoS Delay Attack
 
-![DoS Attack](Dos attack model.png)
+![DoS Attack](Dos_attack_model.png)
 
 Attack introduces feedback delay:
 - Causes large overshoot
