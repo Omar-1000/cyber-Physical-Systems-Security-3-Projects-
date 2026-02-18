@@ -21,7 +21,9 @@ The system evaluates multiple machine learning algorithms and compares their per
 
 ## 🌐 IoT Botnet Security Context
 IoT devices are resource-constrained systems with limited processing power, memory, and security mechanisms. This makes them vulnerable to botnet infections such as Mirai and Bashlite.
+
 ![Botnet C&C server](Botnet_C&C_Server.png)
+
 Botnets consist of:
 - Infected IoT devices (Bots / Zombies)  
 - Command & Control (C2) Server  
@@ -29,7 +31,7 @@ Botnets consist of:
 
 These attacks allow attackers to remotely control devices, steal data, or launch distributed attacks.
 
-The detection system must therefore identify abnormal traffic behavior patterns instead of relying only on signature-based detection. :contentReference[oaicite:0]{index=0}
+The detection system must therefore identify abnormal traffic behavior patterns instead of relying only on signature-based detection. 
 
 ---
 
@@ -145,7 +147,7 @@ Measures detection capability for attacks.
 ### F1 Score
 Balances precision and recall.
 
-High detection accuracy (up to ~99%) demonstrates strong model performance for IoT botnet detection. :contentReference[oaicite:2]{index=2}
+High detection accuracy (up to ~99%) demonstrates strong model performance for IoT botnet detection. 
 
 ---
 
