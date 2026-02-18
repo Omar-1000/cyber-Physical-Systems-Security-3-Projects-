@@ -66,7 +66,7 @@ PI controller significantly improves tracking accuracy and long-term stability.
 
 ## 🖥 MATLAB / Simulink CPS Model
 
-![Simulink Model](MatLab_Simulink car model.png)
+![Simulink Model](MatLab_Simulink_car_model.png)
 
 The full CPS closed-loop system was implemented in Simulink including:
 - Car plant dynamics
