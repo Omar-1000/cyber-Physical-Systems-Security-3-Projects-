@@ -42,7 +42,7 @@ This demonstrates the need for adaptive control in CPS vehicle systems.
 
 ## 📊 Dynamic Car Simulation Cases
 
-![Dynamic Cases](Dynamic car cases.png)
+![Dynamic Cases](Dynamic_car_cases.png)
 
 Multiple simulation scenarios were tested including:
 - Flat road
