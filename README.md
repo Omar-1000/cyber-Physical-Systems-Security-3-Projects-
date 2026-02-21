@@ -72,4 +72,6 @@ Focus areas include:
 - CPS Security Analysis Methodologies  
 - Control System Engineering Techniques  
 
-
+---
+## Author
+Omar Ayesh– Cybersecurity Student (2026)
